@@ -1,0 +1,5 @@
+Comandos Git:
+
+- git unit --> Iniciar repositorio.
+- git status --> Estado del repositorio.
+- git commit --> Agregar cambios a fase de preparación.
